@@ -1,14 +1,12 @@
-HandWritten Character Segmentation from paragraphs into individual letters
+HandWritten/Printed Character Segmentation from paragraphs into individual letters
 
 <h2>Dependencies:-</h2>
 <ul>
-<li>OpenCV-3.1.0</li>
-<li>Pyhton3</li>
+<li>OpenCV-3</li>
+<li>Pyhton3.5</li>
 <li>NumPy</li>
+<li>Keras</li>
+<li>Matpltlib</li>
 </ul>
 
-<p>Directory <b>segmented_img</b> contains the individual characters of input 
-image.</p>
-<p>Sorry, I didn't had much time to make this programe easy to use. There are 
-many hard thresholds and input image have to set in the code itself.</p>
 
